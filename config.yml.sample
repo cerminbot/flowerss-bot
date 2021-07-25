@@ -1,8 +1,8 @@
-bot_token:
-telegraph_token:
-telegraph_account:
-telegraph_author_name:
-telegraph_author_url:
+bot_token: 1891329705:AAF3Rrlk4QqO6yFaQZUzT3P9mY133cCtgtc
+telegraph_token: c80f379783ea71cfe364358d5570356f2fe34858d723c50c750af75db8b2
+telegraph_account: Yasir
+telegraph_author_name: Yasir
+telegraph_author_url: Yasir
 socks5:
 update_interval: 10
 user_agent: Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.103 Safari/537.36
@@ -26,4 +26,4 @@ log:
 sqlite:
   path: ./data.db
 
-allowed_users:
+allowed_users: 617426792
